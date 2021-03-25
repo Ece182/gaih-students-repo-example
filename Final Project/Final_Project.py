@@ -15,5 +15,4 @@ while True:
         print("Incorrect! Try again.")
        
       
-#I couldn't do this homework.Sorry about that. I need more practise. One day I hope I'll do it.
-#Thank you for the python education.
+
